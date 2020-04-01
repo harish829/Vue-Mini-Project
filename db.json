@@ -1,0 +1,40 @@
+{
+  "groceriesList": [
+    {
+      "name": "Rice",
+      "price": "23455",
+      "quantity": "5KG",
+      "id": 1
+    },
+    {
+      "name": "Raggi",
+      "price": "123",
+      "quantity": "3KG",
+      "id": 2
+    },
+    {
+      "name": "Sugar",
+      "price": "240",
+      "quantity": "5KG",
+      "id": 3
+    },
+    {
+      "name": "Raw Rice",
+      "price": "123",
+      "quantity": "2KG",
+      "id": 4
+    },
+    {
+      "name": "Onion",
+      "price": "200",
+      "quantity": "5KG",
+      "id": 5
+    },
+    {
+      "name": "new item",
+      "price": "345",
+      "quantity": "5KG",
+      "id": 6
+    }
+  ]
+}
